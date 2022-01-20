@@ -1,3 +1,4 @@
 Hello! 
 This is a GIT training session.
 bla bla bla
+This session is very cool
